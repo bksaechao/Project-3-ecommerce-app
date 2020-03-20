@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/client/build
-.env
+
 # testing
 /coverage
 
@@ -22,5 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-.env
